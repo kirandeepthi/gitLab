@@ -3,7 +3,7 @@ package git.tree.branch;
 public class Newbranch {
 
 	public void displayNew() {
-		System.out.println("master branch");
+		System.out.println("new branch");
 		
 	}
 
